@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Vendor_ChangeCopyright',
+    'Vendor_ChangeCrumb',
     __DIR__
 );

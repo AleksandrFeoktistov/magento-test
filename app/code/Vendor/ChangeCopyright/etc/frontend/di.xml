@@ -1,5 +1,0 @@
-<config>
-  <type name="Magento\Theme\Block\Html\Footer">
-    <plugin name="change_copyright" type="Vendor\ChangeCopyright\Plugin\Block\Footer" />
-  </type>
-</config>
