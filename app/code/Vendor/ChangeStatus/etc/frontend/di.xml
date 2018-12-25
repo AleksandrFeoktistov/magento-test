@@ -1,0 +1,5 @@
+<config>
+  <type name="Magento\Catalog\Block\Product\View\AbstractView">
+    <plugin name="change_status" type="Vendor\ChangeStatus\Plugin\Block\ChangeStatus" />
+  </type>
+</config>

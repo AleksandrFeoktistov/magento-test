@@ -125,8 +125,11 @@ return [
         'Dotdigitalgroup_Email' => 1,
         'Magento_WishlistAnalytics' => 1,
         'Temando_Shipping' => 1,
+        'Vendor_ChangeCopyright' => 1,
         'Vendor_ChangeCrumb' => 1,
         'Vendor_ChangePrice' => 1,
+        'Vendor_ChangeStatus' => 1,
+        'Vendor_GetUrl' => 1,
         'Vendor_one' => 1,
         'Vendor_two' => 1,
         'Vertex_Tax' => 1

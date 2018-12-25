@@ -8,7 +8,7 @@ class Crumb
 {
     public function beforeAddCrumb(MagentoBreadCrumbs $subject, $crumbName, $crumbInfo)
     {
-        $crumbInfo['label'] .= "(!)";
-        return [$crumbName, $crumbInfo];
+        $crumbInfo['label'] = $crumbInfo['label'].'(!)';
+        return [$crumbName,$crumbInfo];
     }
 }
